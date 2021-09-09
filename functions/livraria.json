@@ -1,0 +1,16 @@
+[
+    {
+        "titulo": "Moby Dick",
+        "ano": "1851",
+        "editora": "Landmark",
+        "preco": 35.99,
+        "estoque": 15
+    },
+    {
+        "titulo": "A Palavra que Resta",
+        "ano": "2021",
+        "editora": "Companhia das Letras",
+        "preco": 38.42,
+        "estoque": 10
+    }
+]

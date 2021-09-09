@@ -1,0 +1,4 @@
+node_modules/
+package-lock.json
+*.bkp
+//todos arquivos backups nao irao
